@@ -10,9 +10,6 @@ This project involves updating the user interface of Windows 11 using a combinat
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
 - [License](#license)
 
 ## Features
@@ -33,3 +30,7 @@ This project involves updating the user interface of Windows 11 using a combinat
 - CSS3
 - JavaScript
 - React
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
